@@ -1,10 +1,10 @@
-# 🌱 Plant Seedling Classification using CNN
+#  Plant Seedling Classification using CNN
 
 A Computer Vision and Deep Learning project that classifies plant seedlings into different species using Convolutional Neural Networks (CNNs). This project demonstrates image preprocessing, model training, prediction, and performance visualization techniques using Python and TensorFlow/Keras.
 
 ---
 
-## 📌 Overview
+##  Overview
 
 This project focuses on identifying plant seedling species from image data using deep learning techniques. The model is trained on labeled plant images and predicts the class of unseen seedlings with high accuracy.
 
@@ -17,7 +17,7 @@ The project covers:
 
 ---
 
-## 🚀 Technologies Used
+##  Technologies Used
 
 - Python
 - TensorFlow / Keras
@@ -29,7 +29,7 @@ The project covers:
 
 ---
 
-## 🧠 Deep Learning Concepts Used
+##  Deep Learning Concepts Used
 
 - Convolutional Neural Networks (CNN)
 - Image Classification
@@ -41,7 +41,7 @@ The project covers:
 
 ---
 
-## 📂 Dataset
+##  Dataset
 
 The dataset contains labeled images of different plant seedlings used for classification training and testing.
 
@@ -51,7 +51,7 @@ Dataset files used:
 
 ---
 
-## ⚙️ Project Workflow
+##  Project Workflow
 
 1. Data Loading
 2. Image Preprocessing
@@ -63,7 +63,7 @@ Dataset files used:
 
 ---
 
-## 📊 Results
+##  Results
 
 - Successfully trained a CNN model for plant seedling classification
 - Achieved strong prediction performance
@@ -72,7 +72,7 @@ Dataset files used:
 
 ---
 
-## 📷 Sample Outputs
+##  Sample Outputs
 
 Add screenshots here:
 - Training Accuracy Graph
@@ -82,7 +82,7 @@ Add screenshots here:
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```bash
 plant-seedling-classification-cnn/
