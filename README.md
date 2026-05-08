@@ -98,3 +98,20 @@ plant-seedling-classification-cnn/
 ├── requirements.txt
 ├── README.md
 └── .gitignore
+
+##  Project Results
+
+### Class Distribution
+![Class Distribution](images/class_distribution.png)
+
+### Model 1 - Training History
+![Model 1 Training](images/model1_training_history.png)
+
+### Model 1 - Confusion Matrix
+![Model 1 Confusion Matrix](images/model1_confusion_matrix.png)
+
+### Model 2 - Training History
+![Model 2 Training](images/model2_training_history.png)
+
+### Model 2 - Confusion Matrix
+![Model 2 Confusion Matrix](images/model2_confusion_matrix.png)
